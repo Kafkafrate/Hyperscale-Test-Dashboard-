@@ -1,0 +1,5 @@
+{
+  "name": "Radix Hyperscale Dashboard",
+  "description": "A high-performance, real-time visualization dashboard for DLT throughput and finality metrics.",
+  "requestFramePermissions": []
+}
