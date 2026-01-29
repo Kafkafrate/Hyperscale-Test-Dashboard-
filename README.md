@@ -3,6 +3,7 @@
 </div>
 
 
+
 I made this with the Gemini AI Studio and uploaded it directly here as it is, but you can either deploy it in your own Gemini AI studio to play with it or Grab the code and modify to make it work with the Hyperscale data. 
 This is just the frontend, but someone with some basic coding knowledge or even using some AI can make it work with the live data. 
 
